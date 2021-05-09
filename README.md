@@ -1,0 +1,1 @@
+simulation of malloc (implicit method)
